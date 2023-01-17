@@ -1,4 +1,4 @@
-# Northwind Sales Data ExplorationIn
+# Northwind Sales Data Exploration
 
 In This Project Over 50 exploratory questions were answered using the Northwind dataset. A lot of data exploration proceduures In MySQL were used in this Project
 
