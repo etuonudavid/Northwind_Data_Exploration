@@ -1,5 +1,6 @@
-# Northwind Sales Data ExplorationIn this Project
-Over 50 exploratory questions were answered using the Northwind dataset. A lot of data exploration proceduures In MySQL were used in this Project
+# Northwind Sales Data ExplorationIn
+
+In This Project Over 50 exploratory questions were answered using the Northwind dataset. A lot of data exploration proceduures In MySQL were used in this Project
 
 **Note**
 **Two SQL files are presnt**
